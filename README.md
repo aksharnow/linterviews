@@ -17,7 +17,7 @@ please follow the instructions below very carefully and we will be calling you s
 12. Check if your video and audio is clear on this website https://webcamera.io/. record yourself a short about yourself and play and see yourself
 13. Remove any icons on the desktop like GotomyPc, anydesk, team viewer etc
 14. if possible keep a blank black wallpaper and avoid at all costs any god and personal photographs as wallpaper.
-15. And PleaseBe relax.. it’s an interview and not a surgery.
+15. And Please be relax.. .it’s an interview and not a surgery.
 
 
 ### Frequently asked questions
