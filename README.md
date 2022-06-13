@@ -1,7 +1,14 @@
+### How do we will connect
+
+1. We will using Zoom (downloaded on your machine and not from browser)
+2. Make sure you have a Mac Machine if the interview involves coding (As windows freeze after 30 minutes of Zoom session)
+3. Join the Zoom from Computer for Screen Sharing and do not join the audio(There is a option on Zoom to skip the computer Audio)
+4. Once you call the zoom meeting, join zoom meeting audio via your phone(Zoom allows to dial in from phone)
+
 
 ### Pre Interview Checklist
 
-please follow the instructions below very carefully and we will be calling you shortly for a mock interview.
+Please follow the instructions below very carefully and we will be calling you shortly for a mock interview.
 
 1. Close all the apps except zoom and whatsApp on you mac(Please remove all the cluster from your machine during the interview).
 2. Sit in the exact spot/place where you would sit to take the actual interview(Please don't say I will sit when in an actual interview.. we want to simulate the situation as close to as possible).
