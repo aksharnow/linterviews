@@ -27,4 +27,3 @@ Please follow the instructions below very carefully and we will be calling you s
 15. And Please be relax.. .it’s an interview and not a surgery.
 
 
-### Frequently asked questions
