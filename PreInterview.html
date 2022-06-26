@@ -4,7 +4,7 @@
 <h4 >Scan the QR code above or Click on the link below</h4>
 <button><a id="btn" target="_blank"> LINK </a></button></br></br>
 <div id="link"> </div>
-
+<iframe id="otterWindow" style="width:100%;height:100%"></iframe>
 
 <script type="text/javascript">
 var qrcode = new QRCode("qrcode");
@@ -14,6 +14,7 @@ window.addEventListener('keyup', (event) => {
   var elText = document.getElementById("text");
   document.getElementById("link").innerHTML = elText.value;
   document.getElementById("btn").href = elText.value;
+  document.getElementById("otterWindow").src = elText.value;
   qrcode.makeCode(elText.value);
 },true);
 </script>
