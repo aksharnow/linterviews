@@ -1,7 +1,11 @@
 <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
 <input id="text" type="text" style="width:80%" /><br />
 <div id="qrcode"></div>
-<h1 id="link">Hello</h1>
+<h4 >Scan the QR code above or Click on the link below</h4>
+<button><a id="btn" target="_blank"> LINK </a></button></br></br>
+<div id="link"> </div>
+
+
 <script type="text/javascript">
 var qrcode = new QRCode("qrcode");
 
@@ -9,14 +13,7 @@ var qrcode = new QRCode("qrcode");
 window.addEventListener('keyup', (event) => {
   var elText = document.getElementById("text");
   document.getElementById("link").innerHTML = elText.value;
+  document.getElementById("btn").href = elText.value;
   qrcode.makeCode(elText.value);
-  makeCode();
 },true);
 </script>
-
-
-
-
-
-
-
