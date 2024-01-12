@@ -1,9 +1,9 @@
 ### How do we will connect
 
-1. We will using Zoom (downloaded on your machine and not from browser)
+1. We will be using Zoom (downloaded on your machine and not from browser)
 2. Make sure you have a Mac Machine if the interview involves coding (As windows freeze after 30 minutes of Zoom session)
 3. Join the Zoom from Computer for Screen Sharing and do not join the audio(There is a option on Zoom to skip the computer Audio)
-4. Once you join the zoom meeting via zoom clint(NOT FROM BROWSER), DO NOT JOIN THE Audio.
+4. Once you join the zoom meeting via zoom client(NOT FROM BROWSER), do not join the audio.
 
 
 ### Pre Interview Checklist
